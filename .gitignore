@@ -6,10 +6,11 @@
 *.pdf
 
 # Folder Exclusions
-HTDC/Alias/*
-HTDC/NavData/*
-HTDC/ICAO/*
-HTDC/Sounds/*
+HTDC/*
+Alias/*
+NavData/*
+ICAO/*
+Sounds/*
 
 # File Exclusions
 *aeronav_copyright.txt
