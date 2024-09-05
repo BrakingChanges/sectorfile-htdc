@@ -1,6 +1,6 @@
 # VATSSA Sector File Development for HTDC Dar es Salaam
 
-[![latest-version](https://img.shields.io/github/v/release/VATSIM-SSA/sectorfile-htdc?include_prereleases)](https://github.com/vatssa/sectorfile-htdc/releases) [![topsky-version](https://img.shields.io/badge/TopSky-2.4.1-blue.svg)](https://forum.vatsim-scandinavia.org/t/topsky)
+[![latest-version](https://img.shields.io/github/v/release/VATSIM-SSA/sectorfile-htdc?include_prereleases)](https://github.com/VATSIM-SSA/sectorfile-htdc/releases) [![topsky-version](https://img.shields.io/badge/TopSky-2.4.1-blue.svg)](https://forum.vatsim-scandinavia.org/t/topsky)
 [![gr-version](https://img.shields.io/badge/Ground%20Radar-1.5-blue.svg)](https://forum.vatsim-scandinavia.org/t/ground-radar) [![gr-version](https://img.shields.io/badge/PushbackFlorian-1.1.0-blue.svg)](https://github.com/MorpheusXAUT/PushbackFlorian) [![gr-version](https://img.shields.io/badge/vCH-0.8.4-blue.svg)](https://github.com/DrFreas/VCH) [![gr-version](https://img.shields.io/badge/vFPC-2.1.1-blue.svg)](https://github.com/hpeter2/VFPC)
 
 ## Introduction
