@@ -1,16 +1,16 @@
 ==== Tanzania ====
 ----
 
-//This page is a subsection of the [[Tanzania]] country page.//
+//This page is a subsection of the [[country:tanzania:home|Tanzania]] country page.//
 
 ==== HTDC ====
 
 ----
 
-[[HTDC]] Dar-es-Salaam FIR | v0.1
+[[airspace:htd:home|HTDC]] Dar-es-Salaam FIR | v0.1
 
 ==== HTDA ====
 
 ----
 
-[[HTDA]] Julius Nyerere Intl | v0.1 | [[HTDC]] Dar-es-Salaam FIR
+[[airport:htda:home|HTDA]] Julius Nyerere Intl | v0.1 | [[airspace:htd:home|HTDC]] Dar-es-Salaam FIR

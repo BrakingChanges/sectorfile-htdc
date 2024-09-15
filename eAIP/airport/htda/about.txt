@@ -1,6 +1,6 @@
 ===== HTDA About =====
 
-**Julius Nyerere International Airport** is the international airport of Dar es Salaam, the largest city in [[Tanzania]]. It is located approximately 12 kilometres (7.5 mi) southwest of the city centre. The airport has flights to destinations in Africa, Asia, Europe, and the Middle East. It is named after Julius Nyerere, the nation's first president.
+**Julius Nyerere International Airport** is the international airport of Dar es Salaam, the largest city in [[country:tanzania:home|Tanzania]]. It is located approximately 12 kilometres (7.5 mi) southwest of the city centre. The airport has flights to destinations in Africa, Asia, Europe, and the Middle East. It is named after Julius Nyerere, the nation's first president.
 
 ==== Aerodrome Data ====
 
@@ -39,4 +39,5 @@
 | Dar Es Salaam CTR   | D     | HTDA_TWR | GND - A035 | - |
 | Dar Es Salaam TMA   | D     | HTDA_APP | A015 - FL245 | - |
 | Dar Es Salaam FIR/UIR     | A     | HTDC_CTR | FL245 - UNL    | - |
+
 {{page>ht-footer#HTDA}}

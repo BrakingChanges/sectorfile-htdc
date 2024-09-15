@@ -1,4 +1,4 @@
 ===== Rwanda =====
 ----
 
-//This page is a subsection of the [[Rwanda]] country page.//
+//This page is a subsection of the [[country:rwanda:home|Rwanda]] country page.//

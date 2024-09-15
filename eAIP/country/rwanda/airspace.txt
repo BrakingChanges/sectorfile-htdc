@@ -1,0 +1,7 @@
+==== Rwanda Airspace ====
+
+^ ICAO  ^ Name          ^ SSA Code  ^ Type    ^ Remarks ^
+| HTDC  | Dar-es-Salaam | [[airspace:htdc:home|HTDC]]  | -       | - |
+
+
+{{page>hr-footer#Rwanda}}

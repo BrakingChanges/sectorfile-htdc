@@ -1,6 +1,6 @@
 ===== HTDC Dar-es-Salaam Flight Information Region =====
 
-  * The Dar-es-Salaam FIR covers the entirety of [[Tanzania]]'s borders.
+  * The Dar-es-Salaam FIR covers the entirety of [[country:tanzania:home|Tanzania]]'s borders.
 
 ==== Airport Coverage ====
 
@@ -8,6 +8,6 @@ Dar-es-Salaam FIR covers the following airports:
 
 === Tanzania ===
 
-{{page>tanzania-airports#Tanzania Airports}}
+{{page>country:tanzania:airports#Tanzania Airports}}
 
 {{page>ht-footer#HTDC}}

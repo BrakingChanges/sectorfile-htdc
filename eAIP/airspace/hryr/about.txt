@@ -1,6 +1,6 @@
 ===== HRYR Kigali Flight Information Region =====
 
-  * The Kigali FIR covers the entirety of [[Rwanda]]'s borders.
+  * The Kigali FIR covers the entirety of [[country:rwanda:home|Rwanda]]'s borders.
 
 ==== Airport Coverage ====
 
@@ -8,6 +8,6 @@ Kigali covers the following airports:
 
 === Rwanda ===
 
-{{page>rwanda-airports#Rwanda Airports}}
+{{page>country:rwanda:airports#Rwanda Airports}}
 
 {{page>hr-footer#HRYR}}

@@ -1,7 +1,7 @@
 ==== Tanzania Airports ====
 
 ^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
-| [[HTDA]]  | Name          | City          | In Development             | - |
+| [[airport:htda:home|HTDA]]  | Name          | City          | In Development             | - |
 
 
 

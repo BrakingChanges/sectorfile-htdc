@@ -1,10 +1,10 @@
 ==== Burundi ====
 ----
 
-//This page is a subsection of the [[Burundi]] country page.//
+//This page is a subsection of the [[country:burundi:home|Burundi]] country page.//
 
 ==== DBBB ====
 
 ----
 
-[[DBBB]] (Lorem) | v0.1
+[[airport:hbba:home|HBBA]] (Lorem) | v0.1

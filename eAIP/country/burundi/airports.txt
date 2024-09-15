@@ -1,0 +1,8 @@
+==== Burundi Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[airport:hbba:home|HBBA]]  | Name          | City          | -             | - |
+
+
+
+{{page>hb-footer#Burundi}}

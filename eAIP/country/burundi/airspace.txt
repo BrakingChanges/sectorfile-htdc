@@ -1,0 +1,7 @@
+==== Burundi Airspace ====
+
+^ ICAO  ^ Name          ^ SSA Code  ^ Type    ^ Remarks ^
+| HTDC  | Dar-es-Salaam | [[airspace:htdc:home|HTDC]]  | -       | - |
+
+
+{{page>hb-footer#Burundi}}

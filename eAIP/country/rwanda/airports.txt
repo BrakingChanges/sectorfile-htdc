@@ -1,0 +1,8 @@
+==== Rwanda Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[airport:hryr:home|HRYR]]  | Name          | City          | In Development             | - |
+
+
+
+{{page>hr-footer#Rwanda}}
