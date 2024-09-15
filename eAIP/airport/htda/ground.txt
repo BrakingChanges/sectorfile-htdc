@@ -1,0 +1,19 @@
+===== HTDA Ground =====
+
+==== Push-back Procedures ====
+
+=== Phraseology ===
+
+<code>
+CALLSIGN, push-b{{:vatssa_airspace.jpg?400|}}ack approved, facing DIRECTION.
+</code>
+
+^ Apron     ^ Type              ^ Facing  ^ Remarks ^
+| Terminal 1   | Remote  | South-East | - |
+| GA Apron   | General Aviation  | N/A | Start Up only |
+| Cargo Apron   | Cargo  | ::: | ::: |
+| Terminal 2   | Domestic Terminal + Remote  | South-East | - |
+| Terminal 3   | Main Terminal + Remote  | North-East/South-West/South-East | - |
+
+
+{{page>ht-footer#HTDA}}

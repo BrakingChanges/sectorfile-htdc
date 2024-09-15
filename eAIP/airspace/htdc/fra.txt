@@ -1,0 +1,48 @@
+===== HTDC Dar-es-Salaam Free Route Airspace =====
+
+==== FRA Waypoints ====
+
+  * Controllers may redirect any flights from/to a FRA Entry/Exit Waypoint to a FRA Arrival/Departure Connecting Waypoint or from a FRA Entry Waypoint to a FRA Exit Waypoint.
+  * Controllers may never redirect any flight that may cross Restricted or Special User Airspace. In those circumstances, controllers may use the FRA Intermediate Waypoints to redirect the flights.
+
+^ Waypoint  ^ Type  ^ Flight Levels ^ Level Availablty  ^ Remarks ^
+| KELAK     | EXAD  | ODD / EVEN    | FL245 / UNLTD     | - |
+| GATAG     | EXAD  | ODD / EVEN    | FL245 / UNLTD     | - |
+| NANOS     | EXAD  | ODD / EVEN    | FL245 / UNLTD     | - |
+| KORUT     | EXAD  | ODD / EVEN    | FL245 / UNLTD     | - |
+| ARDEX     | EXAD  | ODD / EVEN    | FL245 / UNLTD     | - |
+| |||||
+| //Notes// |||||
+| //Type E - Entry Waypoint// |||||
+| //Type X - Exit Waypoint// |||||
+| //Type A - Arrival Connecting Waypoint// |||||
+| //Type D - Departure Connecting Waypoint// |||||
+| //Type I - Intermediate Point// |||||
+
+==== FRA for DN Airports ====
+
+^ Airport   ^ Type      ^ From/To   ^ Start ^ Intermediate  ^ End       ^ Remarks ^
+| DNAA      | Both      | DRRR      | NANOS | -             | ABC VOR   | Bidirectional |
+| :::       | Both      | DRRR      | KORUT | -             | ABC VOR   | Bidirectional |
+| :::       | Both      | DRRR      | MIMBA | OXORU         | ABC VOR   | Bidirectional |
+| :::       | Both      | FCCC      | OBUDU | -             | ABC VOR   | Bidirectional |
+| :::       | Both      | FTTT      | KELAG | POSIB - GURAP | ABC VOR   | Bidirectional
+| DNMM      | Arrival   | DRRR      | NANOS | BUDSI         | LAG VOR   | Arrival Only, Even FL |
+| :::       | Departure | DRRR      | LAG   | -             | NANOS     | Departure Only, Odd FL |
+| :::       | Both      | FCCC      | LAG   | -             | ARDEX     | Bidirectional |
+| :::       | Both      | FCCC      | LAG   | -             | GATAG     | Bidirectional |
+| :::       | Both      | FTTT      | KELAG | OGDIX         | LAG VOR   | Bidirectional |
+
+==== FRA for Overflights ====
+
+^ From  ^ To    ^ Entry ^ Via   ^ Exit  ^ Remarks ^
+| DGAC  | DRRR  | POLTO | APRUN | DETAR | - |
+| DGAC  | DRRR  | POLTO | APRUN | KORUT | - |
+| DGAC  | FCCC  | EDUKO | -     | ARDEX | - |
+| DGAC  | FCCC  | GANDA | -     | GADUV | - |
+
+| 
+
+
+
+{{page>dn-footer#DNKK}}

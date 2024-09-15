@@ -1,0 +1,9 @@
+===== HTDC Dar-es-Salaam Transition Table =====
+
+{{page>ssa-transition-table#Dynamic Transition}}
+
+
+{{page>ssa-transition-table#HTDC}}
+
+
+{{page>ht-footer#HTDC}}

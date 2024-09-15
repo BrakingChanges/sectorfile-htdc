@@ -1,0 +1,8 @@
+==== Tanzania Airspace ====
+
+^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
+| HTDC | Dar-es-Salaam | [[HTDC]] | -       | - |
+
+
+
+{{page>ht-footer#Tanzania}}

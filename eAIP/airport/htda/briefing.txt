@@ -1,0 +1,52 @@
+===== HTDA Pilot Briefing =====
+
+===== Overview (Cross Africa) =====
+
+Unfortunately, Tanzania does not provide access to its AIP for free public use, so the best we can do is link to you to some Google search results, fun. [[https://www.google.com/search?client=opera-gx&hs=E22&sca_esv=582023809&sxsrf=AM9HkKmQT2AbHVTu2QWcf4SZoyx1r2YnA:1699909165508&q=htda+charts&tbm=isch&source=lnms&sa=X&ved=2ahUKEwixkNeP78GCAxXoUkEAHU7tDaEQ0pQJegQIDBAB&biw=1879&bih=931&dpr=1#imgrc=Kuc9r0zu3aiHDM|Search Results]]
+
+===== Departures =====
+  * Dar-es-Salaam has plenty of stands spread across 3 terminals, however we ask you take caution before spawning in.
+  * Based off your aircraft type, we ask you spawn at the following set of stands.
+
+  * Small Biz Jets - GA Apron
+  * Pax Medium - 1 to 4 (Terminal 1), D1A to D5, E1 to E3, C1-C5 (not C15, C25, C35, C45 or C50)*
+  * Pax Heavy - F1 to F8 (excluding L or R), G1 to G4 (excluding L or R)
+  * Cargo - Cargo Apron (this can only fit two, so if unable, refer to the passenger stands)
+
+  * **In the event that there is a lack of stands, pilots may utilise the Military Apron for parking.**
+
+=== Clearance Delivery ===
+  * Dar-es-Salaam Ground (HTDA_GND) will be the primary frequency for receiving clearances out of Dar-es-Salaam.
+  * Very rarely, we may need to amend a person's requested flight level, to achieve enroute separation. This may only apply to non-event traffic.
+  * Pilots should expect either the GEREN1A (05) or the GEREN1D (23).
+  * **NOTE: There is also a GEREN1A arrival, for Runway 05. Don't confuse yourself between the two.**
+  * Pilots can expect an initial climb of FL70 for all SIDs.
+
+=== Pushback and Taxi ===
+  * 10-15 minutes before your CTOT, call Dar-es-Salaam Ground (HTDA_GND) for push and start (or start-up if on a C stand.)
+  * When given taxi, Ground may issue you a "gate" to hold at. These are designated as D, E, F, K, G. Make sure to hold at these gates and await further taxi. [[https://cdn.discordapp.com/attachments/703925063312867369/1173736287178596402/image.png?ex=65650a19&is=65529519&hm=bd7e95db73688f7cc78b033c63a71a38bab6639399d6853214becb1f3ea41337&|Gates]]
+  * **If you are unsure about the gate, or do not have charts to see where the taxi gates are, PLEASE let the Ground Controller know straight away, so they can clear you appropriately.**
+
+=== Departure ===
+
+  * Comply with your assigned departure procedure and do not climb above your initial Climb Altitude unless instructed so.
+  * You may be given intermediate climb instructions due to traffic. Do not climb above any assigned flight level.
+  * Comply with any speed restrictions if provided. They are important to maintain adequate separation between traffic.
+
+===== Arrivals =====
+  * As your flight approaches Dar-es-Salaam, we ask that all pilots make themselves familiar with the arrivals, approaches and procedures.
+  * You will be issued the arrival by Dar-es-Salaam Centre on initial contact, and each STAR will correlate to a specific runway.
+  * BOTEN1A (05), BOTEN1B (23)
+  * If in the event of a hold, pilots can either expect the DS Lctr, or the DV VOR.
+
+=== Arrivals and Approaches (Cross Africa) ===
+  * For RWY05, expect either the RNAV 05 via NIGEL, or the ILS Y 05.
+  * For RWY23, expect the RNAV 23 via UDNEL.
+
+=== Parking and Ground Operations ===
+  * Unless given explicit instruction by ATC, pilots are not to vacate on Runway 14/32 when landing.
+  * Due to a high amount of departures, stand options may be limited. Give way to taxiing aircraft before entering the taxiways from the runway.
+  * If pilots vacate via U or P, pilots are to continue taxi via P and hold short of Runway 14/32 to await further taxi instruction.
+
+
+{{page>ht-footer#HTDA}}

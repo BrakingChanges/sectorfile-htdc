@@ -1,0 +1,13 @@
+===== HTDA Departure =====
+
+  * HTDA doesn't have a dedicated Departure Position, with Dar Es Salaam Approach (HTDA_APP) assuming the role of Departure.
+
+==== Departure Procedures ====
+
+  * All aircraft are required to fly the assigned SID given by ATC. Controllers may issue continuous climb instructions to FL245.
+
+==== Coordinating HTDA & HTZA Departures ====
+
+  * HTDA_APP will also be responsible for managing HTZA in the event local APP for Zanzibar is offline. Controllers should be aware due to the near perpendicular nature of the runway at Zanzibar in relation to Dar Es Salaam when handling aircraft.
+
+{{page>ht-footer#HTDA}}

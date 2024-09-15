@@ -1,0 +1,42 @@
+===== HTDA About =====
+
+**Julius Nyerere International Airport** is the international airport of Dar es Salaam, the largest city in [[Tanzania]]. It is located approximately 12 kilometres (7.5 mi) southwest of the city centre. The airport has flights to destinations in Africa, Asia, Europe, and the Middle East. It is named after Julius Nyerere, the nation's first president.
+
+==== Aerodrome Data ====
+
+| ICAO                  | HTDA |
+| IATA                  | DAR |
+| Elevation             | 182 ft|
+| Transition Altitude   | 3500 ft |
+| Transition Level      | FL40 |
+| Mag Variation         | 0.2º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Julius_Nyerere_International_Airport&params=06_52_41_S_39_12_10_E_region:TZ_type:airport|06°52′41″S 39°12′10″E]] |
+| Site | [[https://www.daressalaamairport.com]] |
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 05 | 047º | 3000 | 3120 | 3120 | 3000 | - |
+| 23 | 227º | 3000 | 3120 | 3120 | 3000 | - |
+
+==== Terminals ====
+
+^ Terminal ^ Type              ^ Entry / Exit  ^ Remarks ^
+| Terminal 1 | Remote  | Twys Q, W         | Chartered / Private Flights |
+| Terminal 2 | Domestic Terminal | Twy P | Closed from June 2023 until 2025 |
+| Terminal 3  | International Terminal     | Twy P        | - |
+
+==== Positions & Frequencies ====
+
+^ Position  ^ Callsign          ^ Frequency ^ Remarks ^
+| HTDA_ATIS | Dar Es Salaam ATIS        | 119.000   | - |
+| HTDA_GND | Dar Es Salaam Ground      | 121.800   | - |
+| HTDA_TWR | Dar Es Salaam Tower       | 118.700   | - |
+| HTDA_APP | Dar Es Salaam Approach | 119.600 | - |
+| HTDC_CTR | Dar Es Salaam Control     | 121.300 | - |
+
+==== Airspace ====
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Dar Es Salaam CTR   | D     | HTDA_TWR | GND - A035 | - |
+| Dar Es Salaam TMA   | D     | HTDA_APP | A015 - FL245 | - |
+| Dar Es Salaam FIR/UIR     | A     | HTDC_CTR | FL245 - UNL    | - |
+{{page>ht-footer#HTDA}}

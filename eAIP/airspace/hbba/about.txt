@@ -1,0 +1,13 @@
+===== HBBA Bujumbura Flight Information Region =====
+
+  * The Bujumbura FIR covers the entirety of [[Burundi]]'s borders.
+
+==== Airport Coverage ====
+
+Bujumbura covers the following airports:
+
+=== Burundi ===
+
+{{page>burundi-airports#Burundi Airports}}
+
+{{page>hb-footer#HBBA}}

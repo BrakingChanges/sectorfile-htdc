@@ -1,0 +1,6 @@
+===== HTDA | Julius Nyerere Intl | Dar-es-Salaam, Tanzania =====
+
+{{tabembed>about|About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing}}
+
+
+{{page>ht-footer#Tanzania}}

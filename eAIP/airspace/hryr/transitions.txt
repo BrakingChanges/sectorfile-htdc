@@ -1,0 +1,8 @@
+===== HRYR Kigali Transition Table =====
+
+{{page>ssa-transition-table#Dynamic Transition}}
+
+
+{{page>ssa-transition-table#HRYR}}
+
+{{page>hr-footer#HRYR}}

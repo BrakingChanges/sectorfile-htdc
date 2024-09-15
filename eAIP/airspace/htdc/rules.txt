@@ -1,0 +1,22 @@
+===== HTDC Dar-es-Salaam Airspace Rules =====
+
+==== Separation ====
+
+- RNAV 10 supports 50 NM lateral and the 50 NM longitudinal distance based separation minima in oceanic or remote area airspace. 
+
+
+==== SELCAL ====
+
+  * SELCAL is NOT available within the HTDC FIR airspace.
+
+==== SLOP ====
+
+  * SLOP is possible within the HTDC FIR airspace.
+
+
+==== VFR Rules ====
+
+  * VFR flights shall not be operadored above FL145 without approval.
+
+
+{{page>ht-footer#HTDC}}
